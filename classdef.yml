@@ -1,0 +1,35 @@
+anything:
+    ground:
+        road:
+            road surface:
+            road marking:
+                line marking: # 车道线
+                    by shape: # by 被建模为多个分类器，根据笛卡尔积分拆为更细的事件
+                        solid:
+                        dotted:
+                    by color:
+                        white:
+                        yellow:
+                arrow:
+                    is straight: # does/has/is 均被建模为多个二分类器，根据笛卡尔积分拆为更细的事件
+                    is left:
+                    is right:
+                    is uturn:
+                others:
+                    zebra crossing: # 斑马线
+                    diversion zone: # 导流区
+                    stop line: # 停止线
+                    deceleration line: # 减速线
+                    no parking: # 禁停区
+                    zebra tips: # 空心菱形标识，斑马线预告
+                    parking to give way: # 倒三角标识，停车让行
+                    non-motor vehicle: # 非机动车道
+                    others:
+            road side:
+                curb:
+    sky:
+        sky:
+        cloud:
+        bird:
+    building:
+    movable:

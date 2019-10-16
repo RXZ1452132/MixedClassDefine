@@ -1,0 +1,82 @@
+road surface:
+    id: 1
+    uri:
+        - anything/ground/road/road surface
+zebra crossing:
+    id: 2
+    uri:
+        - anything/ground/road/road marking/others/zebra crossing
+no parking:
+    id: 3
+    uri:
+        - anything/ground/road/road marking/others/no parking
+diversion line:
+    id: 4
+    uri:
+        - anything/ground/road/road marking/others/diversion zone
+deceleration zone:
+    id: 5
+    uri:
+        - anything/ground/road/road marking/others/deceleration line
+white solid lane marking:
+    id: 6
+    uri:
+        - anything/ground/road/road marking/line marking/solid,white
+white dotted lane marking:
+    id: 7
+    uri:
+        - anything/ground/road/road marking/line marking/dotted,white
+yellow solid lane marking:
+    id: 8
+    uri:
+        - anything/ground/road/road marking/line marking/solid,yellow
+yellow dotted lane marking:
+    id: 9
+    uri:
+        - anything/ground/road/road marking/line marking/dotted,yellow
+stopline:
+    id: 10
+    uri:
+        - anything/ground/road/road marking/others/stop line
+sidewalk tips:
+    id: 11
+    uri:
+        - anything/ground/road/road marking/others/zebra tips
+straight guided marking:
+    id: 12
+    uri:
+        - anything/ground/road/road marking/arrow/straight.*
+left guided marking:
+    id: 13
+    uri:
+        - anything/ground/road/road marking/arrow/.*,left,.*
+right guided marking:
+    id: 14
+    uri:
+        - anything/ground/road/road marking/arrow/.*,right,.*
+straight plus left guided marking:
+    id: 15
+    uri:
+        - anything/ground/road/road marking/arrow/straight,left,not right,not uturn
+straight plus right guided marking:
+    id: 16
+    uri:
+        - anything/ground/road/road marking/arrow/straight,not left,right,not uturn
+left and right guided marking:
+    id: 17
+    uri:
+        - anything/ground/road/road marking/arrow/not straight,left,right,not uturn
+parking to give way:
+    id: 18
+    uri:
+        - anything/ground/road/road marking/others/parking to give way
+non-motor vehicle:
+    id: 19
+    uri:
+        - anything/ground/road/road marking/others/non-motor vehicle
+other:
+    id: 0
+    uri:
+        - anything/sky
+        - anything/building
+        - anything/movable
