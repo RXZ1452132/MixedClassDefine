@@ -45,15 +45,15 @@ sidewalk tips:
 straight guided marking:
     id: 12
     uri:
-        - anything/ground/road/road marking/arrow/straight.*
+        - anything/ground/road/road marking/arrow/straight,not left,not right,not uturn
 left guided marking:
     id: 13
     uri:
-        - anything/ground/road/road marking/arrow/.*,left,.*
+        - anything/ground/road/road marking/arrow/not straight,left,not right,not uturn
 right guided marking:
     id: 14
     uri:
-        - anything/ground/road/road marking/arrow/.*,right,.*
+        - anything/ground/road/road marking/arrow/not straight,not left,right,not uturn
 straight plus left guided marking:
     id: 15
     uri:

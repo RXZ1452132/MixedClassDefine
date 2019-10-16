@@ -10,6 +10,9 @@ anything:
                     by color:
                         white:
                         yellow:
+                    by line count:
+                        single:
+                        double:
                 arrow:
                     is straight: # does/has/is 均被建模为多个二分类器，根据笛卡尔积分拆为更细的事件
                     is left:
@@ -24,6 +27,7 @@ anything:
                     zebra tips: # 空心菱形标识，斑马线预告
                     parking to give way: # 倒三角标识，停车让行
                     non-motor vehicle: # 非机动车道
+                    parking:
                     others:
             road side:
                 curb:

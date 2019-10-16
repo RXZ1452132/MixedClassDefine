@@ -1,0 +1,186 @@
+void:
+    id: 0
+    uri:
+        - anything/ground/road/road surface
+        - anything/sky
+        - anything/building
+        - anything/movable
+_1:
+    id: 1
+    uri:
+        - anything/ground/road/road marking/line marking/solid,white,single
+_2:
+    id: 2
+    uri:
+        - anything/ground/road/road marking/line marking/solid,yellow,single
+
+_3:
+    id: 3
+    uri:
+        - anything/ground/road/road marking/line marking/solid,white,double
+
+_4:
+    id: 4
+    uri: 
+        - anything/ground/road/road marking/line marking/solid,yellow,double
+
+_5:
+    id: 5
+    uri:
+        - anything/ground/road/road marking/line marking
+
+_6:
+    id: 6
+    uri:
+        - anything/ground/road/road marking/line marking
+
+_7:
+    id: 7
+    uri:
+        - anything/ground/road/road marking/line marking/dotted,white,single
+
+_8:
+    id: 8
+    uri:
+        - anything/ground/road/road marking/line marking/dotted,yellow,single
+
+_9:
+    id: 9
+    uri:
+        - anything/ground/road/road marking/line marking
+
+_10:
+    id: 10
+    uri:
+        - anything/ground/road/road marking/line marking
+
+_11:
+    id: 11
+    uri:
+        - anything/ground/road/road marking/others/stop line
+
+_12:
+    id: 12
+    uri:
+        - anything/ground/road/road marking/others/stop line
+
+_13:
+    id: 
+    uri:
+        - anything/ground/road/road marking/others/stop line
+
+_14:
+    id: 14
+    uri:
+        - anything/ground/road/road marking/others/
+
+_15:
+    id: 15
+    uri:
+        - anything/ground/road/road marking/others/
+
+_16:
+    id: 16
+    uri:
+        - anything/ground/road/road marking/others/parking
+
+_17:
+    id: 17
+    uri:
+        - anything/ground/road/road marking/others/parking
+
+_18:
+    id: 18
+    uri:
+        - anything/ground/road/road marking/others/zebra crossing
+
+_19:
+    id: 19
+    uri:
+        - anything/ground/road/road marking/arrow/not straight,not left,not right,uturn
+
+_20:
+    id: 20
+    uri:
+        - anything/ground/road/road marking/arrow/straight,not left,not right,not uturn
+
+_21:
+    id: 21
+    uri:
+        - anything/ground/road/road marking/arrow/straight,left,not right,not uturn
+
+_22:
+    id: 22
+    uri:
+        - anything/ground/road/road marking/arrow/straight,not left,right,not uturn
+
+_23:
+    id: 23
+    uri:
+        - anything/ground/road/road marking/arrow/straight,left,right,not uturn
+
+_24:
+    id: 24
+    uri:
+        - anything/ground/road/road marking/arrow/not straight,left,not right,not uturn
+
+_25:
+    id: 25
+    uri:
+        - anything/ground/road/road marking/arrow/not straight,not left,right,not uturn
+
+_26:
+    id: 26
+    uri:
+        - anything/ground/road/road marking/arrow/not straight,left,right,not uturn
+
+_27:
+    id: 27
+    uri:
+        - anything/ground/road/road marking/arrow
+
+_28:
+    id: 28
+    uri:
+        - anything/ground/road/road marking/arrow
+
+_29:
+    id: 29
+    uri:
+        - anything/ground/road/road marking/arrow
+
+_30:
+    id: 30
+    uri:
+        - anything/ground/road/road marking/arrow
+
+_31:
+    id: 31
+    uri:
+        - anything/ground/road/road marking/others
+
+_32:
+    id: 32
+    uri:
+        - anything/ground/road/road marking/others
+
+
+_33:
+    id: 33
+    uri:
+        - anything/ground/road/road marking/others/no parking
+
+_34:
+    id: 34
+    uri:
+        - anything/ground/road/road marking/others
+
+_35:
+    id: 35
+    uri:
+        - anything/ground/road/road marking/others
+
+_255:
+    id: 255
+    uri:
+        - anything
