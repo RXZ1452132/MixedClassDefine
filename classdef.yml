@@ -1,6 +1,6 @@
 anything:
     ground:
-        road:
+        road: # 可行驶区域
             road surface:
                 vast road surface:
                 near zebra:
@@ -31,8 +31,8 @@ anything:
                     non-motor vehicle: # 非机动车道
                     parking:
                     others:
-            road side:
-                curb:
+        road side:
+            curb:
     sky:
         sky:
         cloud:
