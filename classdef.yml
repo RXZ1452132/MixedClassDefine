@@ -2,6 +2,8 @@ anything:
     ground:
         road:
             road surface:
+                vast road surface:
+                near zebra:
             road marking:
                 line marking: # 车道线
                     by shape: # by 被建模为多个分类器，根据笛卡尔积分拆为更细的事件
