@@ -1,0 +1,33 @@
+void:
+    id: 0
+    uri:
+        - anything/ground/road/road surface
+        - anything/sky
+        - anything/building
+        - anything/movable
+white solid lane marking:
+    id: 1
+    uri:
+        - anything/ground/road/road marking/line marking/solid,white,single
+white dotted lane marking:
+    id: 2
+    uri:
+        - anything/ground/road/road marking/line marking/dotted,white,single
+yellow solid lane marking:
+    id: 3
+    uri:
+        - anything/ground/road/road marking/line marking/solid,yellow,double
+        - anything/ground/road/road marking/line marking/solid,yellow,single
+yellow dotted lane marking:
+    id: 4
+    uri:
+        - anything/ground/road/road marking/line marking/dotted,yellow,single
+        - anything/ground/road/road marking/line marking/dotted,yellow,double
+_5:
+    id: 5
+    uri:
+        - anything/ground/road/road marking/line marking
+_255:
+    id: 255
+    uri:
+        - anything
