@@ -1,0 +1,152 @@
+back:     
+    id: 0
+    uri:    
+        - anything
+xing:
+    id: 1
+    uri :  
+        - anything/ground/road/road marking/chars
+        - anything/ground/road/road surface/near mark
+forward:
+    id: 2
+    uri:
+        - anything/ground/road/road marking/arrow/straight,not left,not right,not unturn
+        - anything/ground/road/road surface/near mark                
+school:
+    id: 3
+    uri : 
+        - anything/ground/road/road marking/chars
+        - anything/ground/road/road surface/near mark 
+30:
+    id: 4         
+    uri :  
+        - anything/ground/road/road marking/chars
+        - anything/ground/road/road surface/near mark
+slow: 
+    id: 5          
+    uri : 
+        - anything/ground/road/road marking/chars
+        - anything/ground/road/road surface/near mark
+ped:
+    id: 6       
+    uri : 
+        - anything/ground/road/road marking/chars
+        - anything/ground/road/road surface/near mark
+speed:
+    id: 7      
+    uri : 
+        - anything/ground/road/road marking/chars
+        - anything/ground/road/road surface/near mark
+bike:
+    id: 8       
+    uri : 
+        - anything/ground/road/road marking/others/non-motor vehicle
+        - anything/ground/road/road surface/near mark
+clear:
+    id: 9          
+    uri:  
+        - anything/ground/road/road marking/chars
+        - anything/ground/road/road surface/near mark
+hump:
+    id : 10         
+    uri:  
+        - anything/ground/road/road marking/chars
+        - anything/ground/road/road surface/near mark
+pool:
+    id: 11         
+    uri:  
+        - anything/ground/road/road marking/chars
+        - anything/ground/road/road surface/near mark
+rightturin: 
+    id: 12     
+    uri: 
+        - anything/ground/road/road marking/arrow/not straight,not left,right,not unturn
+        - anything/ground/road/road surface/near mark
+lane:
+    id : 13         
+    uri:  
+        - anything/ground/road/road marking/chars
+        - anything/ground/road/road surface/near mark
+diamond:
+    id : 14     
+    uri:  
+        - anything/ground/road/road marking/others/zebra tips
+        - anything/ground/road/road surface/near mark
+rail: 
+    id: 15           
+    uri: 
+        - anything/ground/road/road marking/others/others
+        - anything/ground/road/road surface/near mark
+stop:  
+    id: 16          
+    uri: 
+        - anything/ground/road/road marking/chars
+        - anything/ground/road/road surface/near mark
+leftturn: 
+    id: 17          
+    uri:
+        - anything/ground/road/road marking/arrow/not straight,left,not right,not unturn
+        - anything/ground/road/road surface/near mark
+forward&right: 
+    id: 18      
+    uri:
+        - anything/ground/road/road marking/arrow/not straight,not left,right,not unturn
+        - anything/ground/road/road surface/near mark
+keep:
+    id: 19      
+    uri : 
+        - anything/ground/road/road marking/chars
+        - anything/ground/road/road surface/near mark
+forward&left: 
+    id: 20     
+    uri:
+        - anything/ground/road/road marking/arrow/straight,left,not right,not unturn
+        - anything/ground/road/road surface/near mark
+40: 
+    id: 21  
+    uri : 
+        - anything/ground/road/road marking/chars
+        - anything/ground/road/road surface/near mark
+25:
+    id: 22      
+    uri: 
+        - anything/ground/road/road marking/chars
+        - anything/ground/road/road surface/near mark
+35:
+    id: 23          
+    uri : 
+        - anything/ground/road/road marking/chars
+        - anything/ground/road/road surface/near mark
+X-crossing:
+    id: 24  
+    uri : 
+        - anything/ground/road/road marking/others/others
+        - anything/ground/road/road surface/near mark
+car:
+    id: 25          
+    uri: 
+        - anything/ground/road/road marking/chars
+        - anything/ground/road/road surface/near mark
+stripe:
+    id: 26      
+    uri: 
+        - anything/ground/road/road marking/others/others
+        - anything/ground/road/road surface/near mark
+yield:
+    id: 27             
+    uri: 
+        - anything/ground/road/road marking/chars                
+        - anything/ground/road/road surface/near mark
+
+
+
+
+
+
+
+
+
+
+
+
+

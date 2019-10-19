@@ -6,7 +6,7 @@ zebra crossing:
     id: 2
     uri:
         - anything/ground/road/road marking/others/zebra crossing
-        - anything/ground/road/road surface/near zebra
+        - anything/ground/road/road surface/near mark
 no parking:
     id: 3
     uri:
