@@ -1,10 +1,7 @@
 void:
     id: 0
     uri:
-        - anything/ground/road/road surface
-        - anything/sky
-        - anything/building
-        - anything/movable
+        - anything
 white solid lane marking:
     id: 1
     uri:
@@ -23,11 +20,3 @@ yellow dotted lane marking:
     uri:
         - anything/ground/road/road marking/line marking/dotted,yellow,single
         - anything/ground/road/road marking/line marking/dotted,yellow,double
-_5:
-    id: 5
-    uri:
-        - anything/ground/road/road marking/line marking
-_255:
-    id: 255
-    uri:
-        - anything
