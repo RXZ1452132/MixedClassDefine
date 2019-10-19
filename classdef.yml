@@ -1,7 +1,9 @@
 anything:
     ground:
-        road:
+        road: # 可行驶区域
             road surface:
+                vast road surface:
+                near mark: 
             road marking:
                 line marking: # 车道线
                     by shape: # by 被建模为多个分类器，根据笛卡尔积分拆为更细的事件
@@ -29,8 +31,9 @@ anything:
                     non-motor vehicle: # 非机动车道
                     parking:
                     others:
-            road side:
-                curb:
+                chars:
+        road side:
+            curb:
     sky:
         sky:
         cloud:
